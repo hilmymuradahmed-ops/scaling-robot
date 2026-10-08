@@ -24,7 +24,7 @@ for chunk in completion:
     print(chunk.choices[0].delta.content or "", end="")
 # first
 # enter main page
-# enter email
+# enter email or continue as quest
 
 
  #hi let's learn thing together 
@@ -35,5 +35,12 @@ for chunk in completion:
 
 
 (print("start firs data page"))
+
+
+
+#put first
+# enter main page
+# enter email or continue as quest
+# in middle
 
 
