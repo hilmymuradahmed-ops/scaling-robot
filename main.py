@@ -18,6 +18,22 @@ completion = client.chat.completions.create(
     stream=True,
     stop=None
 )
-
+ # ai
+# mimi max
 for chunk in completion:
     print(chunk.choices[0].delta.content or "", end="")
+# first
+# enter main page
+# enter email
+
+
+ #hi let's learn thing together 
+
+
+#start tour
+
+
+
+***start firs data page***
+
+
