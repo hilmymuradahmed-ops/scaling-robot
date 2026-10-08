@@ -44,3 +44,17 @@ for chunk in completion:
 # in middle
 
 
+# put continue button to sign or guest the color blue
+
+
+#in the main page
+#welcome to mini max AI
+
+
+print("hi")
+
+#in the AI but gallery but you have to sign in 
+
+
+
+
