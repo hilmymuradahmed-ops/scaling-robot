@@ -55,6 +55,46 @@ print("hi")
 
 #in the AI but gallery but you have to sign in 
 
+("size 177")
+
+# put programming settnig
+
+
+# in the setting languege
+
+# smart mode
+
+
+# stupid mode
+
+# use voice
+
+# chose theme color
+
+# pro more limites and whith out comfirming email
+
+# code mode
+
+
+# make app with MINIMAX AI
+
+
+# put voice mode
+
+# change voice 
+
+
+# joke mode
+
+# story mode
+
+
+
+
+
+
+
+
 
 
 
